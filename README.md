@@ -20,6 +20,7 @@ Objetivos simples com um game rápido e divertido, você é um alien abduzindo a
 seguindo os seguintes objetivos:
 
 `1` Capturar todas as vacas antes que os terráqueos te descubram
+
 `2` Manter a integridade da plantação para não levantar suspeitas nos terráqueos
 
 ## Sobre
