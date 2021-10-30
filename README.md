@@ -24,7 +24,7 @@ seguindo os seguintes objetivos:
 
 ## Link para download do jogo
 
-https://drive.google.com/file/d/1u-gv3fF07fUb9C90Pz4oeazZ0fcgBHDq/view
+https://drive.google.com/file/d/17uvATCazNesqUSp-Hlt2XcT3oiqj5HR9/view?usp=sharing
 
 ## Sobre
 
