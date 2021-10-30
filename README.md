@@ -22,7 +22,7 @@ seguindo os seguintes objetivos:
 
 `2` Manter a integridade da plantação para não levantar suspeitas nos terráqueos
 
-## Link para download
+## Link para download do jogo
 
 https://drive.google.com/file/d/1u-gv3fF07fUb9C90Pz4oeazZ0fcgBHDq/view
 
