@@ -1,7 +1,6 @@
-# jogo-cow-abduction
-Jogo "point and click" com a temática de abdução alienígena, desenvolvido utilizando C# com a engine da Unity.  
+# Cow Abduction
 
-GamePlay: https://www.youtube.com/watch?v=-H9LVtiQmcE&amp;ab_channel=LFSS
+Jogo com a temática de abdução alienígena, desenvolvido utilizando C# com a engine da Unity. 
 
 ## Telas
 
@@ -22,6 +21,10 @@ seguindo os seguintes objetivos:
 `1` Capturar todas as vacas antes que os terráqueos te descubram
 
 `2` Manter a integridade da plantação para não levantar suspeitas nos terráqueos
+
+## Link para download
+
+https://drive.google.com/file/d/1u-gv3fF07fUb9C90Pz4oeazZ0fcgBHDq/view
 
 ## Sobre
 
