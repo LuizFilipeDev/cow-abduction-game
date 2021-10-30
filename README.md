@@ -19,8 +19,8 @@ https://user-images.githubusercontent.com/74942532/139517600-25c4e7ad-a2b8-4c1d-
 Objetivos simples com um game rápido e divertido, você é um alien abduzindo as vacas de uma fazenda e não pode deixar os terráqueos te descobrirem
 seguindo os seguintes objetivos:
 
-`1` Capturar todas as vacas antes que os terráqueos te descubram. 
-`2` Manter a integridade da plantação para não levantar suspeitas nos terráqueos. 
+`1` Capturar todas as vacas antes que os terráqueos te descubram
+`2` Manter a integridade da plantação para não levantar suspeitas nos terráqueos
 
 ## Sobre
 
